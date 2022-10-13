@@ -36,7 +36,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except:
-    UPSTREAM_REPO = "https://github.com/8769ANURAG/mirror-Leach"
+    UPSTREAM_REPO = "https://github.com/Anurag8799/mirror143"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
